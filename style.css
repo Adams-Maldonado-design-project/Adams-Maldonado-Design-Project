@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 1em;
+    background-color: #E6E6E6;
+}
+h2 {
+    margin-left: 2.7em;
+    padding: .5em;
+}
+
+#first-hi {
+    padding: .5em;
+}
+#park-city {
+    padding: .5em;
+    margin: auto;
+}
+
+#design {
+    background-color: #e6563b;
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+
+
+}
+#develop {
+    background-color: #dea03d;
+    border: 2px solid white;
+    margin: .2em;
+}
+#support {
+    background-color: #7cb06c;
+    border: 2px solid white;
+    margin: .2em;
+}
+#host {
+    background-color: #00aba9;
+    border: 2px solid white;
+    margin: .2em;
+}
