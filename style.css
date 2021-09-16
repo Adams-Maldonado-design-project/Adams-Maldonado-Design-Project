@@ -3,22 +3,32 @@
 }
 
 body {
-    margin: 0;
+    margin: auto;
     padding: 1em;
     background-color: #E6E6E6;
+    max-width: 1200px;
 }
 h2 {
     display: flex;
     margin: auto;
+    font-family: 'anton-regular', sans-serif;
+    font-weight: bold;
 
 }
 
-#first-hi {
-    padding: .5em;
+p {
+    font-family: 'abel-regular', sans-serif;
+}
+
+#first-h1 {
+    display: flex;
+    margin: auto;
+    justify-content: center;
 }
 #park-city {
     padding: .5em;
     margin: auto;
+    justify-content: center;
 }
 
 
@@ -30,9 +40,7 @@ h2 {
 .circle-1 {
     position: relative;
     width: 100%;
-    /* 1:1 aspect ratio */
     padding-top: calc(100% - (var(--border-size) * 2));
-    /* ---------------- */
     background: #e6563b;
     border: var(--border-size) solid #f0f0f0;
     border-radius: 50%;
@@ -41,9 +49,7 @@ h2 {
 .circle-2 {
     position: relative;
     width: 100%;
-    /* 1:1 aspect ratio */
     padding-top: calc(100% - (var(--border-size) * 2));
-    /* ---------------- */
     background: #dea03d;
     border: var(--border-size) solid #f0f0f0;
     border-radius: 50%;
@@ -52,9 +58,7 @@ h2 {
 .circle-3 {
     position: relative;
     width: 100%;
-    /* 1:1 aspect ratio */
     padding-top: calc(100% - (var(--border-size) * 2));
-    /* ---------------- */
     background: #7cb06c;
     border: var(--border-size) solid #f0f0f0;
     border-radius: 50%;
@@ -63,9 +67,7 @@ h2 {
 .circle-4 {
     position: relative;
     width: 100%;
-    /* 1:1 aspect ratio */
     padding-top: calc(100% - (var(--border-size) * 2));
-    /* ---------------- */
     background: #00aba9;
     border: var(--border-size) solid #f0f0f0;
     border-radius: 50%;
