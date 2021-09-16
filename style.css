@@ -216,3 +216,24 @@ p {
     margin-top: 1em ;
     margin-left: 4.8em;
 }
+
+.lg-lists {
+    display: flex;
+    margin-left: 600px;
+
+
+}
+
+#lg-screen-1 {
+    margin: 10px;
+}
+#lg-screen-2 {
+    margin: 10px;
+
+}
+#lg-screen-3 {
+    margin: 10px;
+}
+#lg-screen-4 {
+    margin: 10px;
+}
