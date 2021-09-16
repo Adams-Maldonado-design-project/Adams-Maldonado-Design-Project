@@ -41,6 +41,8 @@ p {
 #logo {
     display: flex;
     margin: auto;
+    height: 120px;
+    width: 120px;
 }
 .circle-1 {
     position: relative;
@@ -176,7 +178,13 @@ p {
     border: 7px solid #f0f0f0;
 }
 
-/*#icon-text {*/
-/*    margin-bottom: 100px;*/
+#white-space {
+    background-color: #f0f0f0;
+    height: 100px;
+    width: 100%;
+    z-index: -1;
+}
 
-/*}*/
+#img-logo {
+    margin-top: -107px;
+}
