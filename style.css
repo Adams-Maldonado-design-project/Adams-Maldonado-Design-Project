@@ -11,13 +11,14 @@ body {
 h1 {
     display: flex;
     justify-content: center;
-    margin-top: 1em;
+    align-items: center;
 }
 h2 {
     display: flex;
     margin: auto;
     font-family: 'anton-regular', sans-serif;
     font-weight: bold;
+    justify-content: center;
 
 }
 
@@ -146,13 +147,14 @@ p {
     align-items: center;
 }
 .iconBody{
-    margin-left: 100px;
-
-
+    display: flex;
+    justify-content: flex-end;
 
 }
 .featured{
     padding: 1em;
+    display: flex;
+    justify-content: flex-start;
 }
 
 #img-1 {
@@ -187,4 +189,19 @@ p {
 
 #img-logo {
     margin-top: -107px;
+}
+
+#md-screen-1 {
+    margin-top: 2.5em;
+}
+#md-screen-2 {
+    margin-top: 2.5em;
+}
+
+#md-screen-3 {
+    margin-top: 2.5em;
+    margin-left: 2em;
+}
+#md-screen-4 {
+    margin-top: 2.5em;
 }
