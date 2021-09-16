@@ -95,24 +95,43 @@ p {
     width: 18px;
     background-color: #00aba9;
     border-radius: 50%;
-    display: flex;
-    justify-content: flex-end;
+    float: right;
+    padding: 1em;
+    margin: .2em;
 }
 .icon2{
     height: 18px;
     width: 18px;
     background-color: #e6563b;
     border-radius: 50%;
+    float: right;
+    padding: 1em;
+    margin: .2em;
 }
 .icon3{
     height: 18px;
     width: 18px;
     background-color: #dea03d;
     border-radius: 50%;
+    float: right;
+    padding: 1em;
+    margin: .2em;
 }
 .icon4{
     height: 18px;
     width: 18px;
     background-color: #7cb06c;
     border-radius: 50%;
+    float:right;
+    padding: 1em;
+    margin:.2em;
+}
+.iconBody{
+    margin-left: 300px;
+    margin-top: .2em;
+
+
+}
+.featured{
+    padding: 1em;
 }
