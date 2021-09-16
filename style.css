@@ -90,3 +90,29 @@ p {
     font-size: 2em;
     text-transform: uppercase;
 }
+.icon1{
+    height: 18px;
+    width: 18px;
+    background-color: #00aba9;
+    border-radius: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.icon2{
+    height: 18px;
+    width: 18px;
+    background-color: #e6563b;
+    border-radius: 50%;
+}
+.icon3{
+    height: 18px;
+    width: 18px;
+    background-color: #dea03d;
+    border-radius: 50%;
+}
+.icon4{
+    height: 18px;
+    width: 18px;
+    background-color: #7cb06c;
+    border-radius: 50%;
+}
