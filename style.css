@@ -258,6 +258,7 @@ p {
     width: 70px;
     margin-top: 8px;
     margin-left: 20px;
+    border: 2px solid #f0f0f0;
 }
 
 .aside-text {
@@ -275,6 +276,7 @@ p {
     width: 70px;
     margin-top: 20px;
     margin-left: 20px;
+    border: 2px solid #f0f0f0;
 }
 
 .img-text {
