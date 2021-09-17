@@ -92,7 +92,7 @@ p {
     align-items: center;
     justify-content: center;
     color: #f0f0f0;
-    font-family: 'Anton', serif;
+    font-family: 'Anton-regular', serif;
     font-size: 2em;
     text-transform: uppercase;
 }
@@ -279,10 +279,15 @@ p {
 
 .img-text {
     margin-left: 10px;
-    margin-top: 20px
+    margin-top: 20px;
+    font-weight: bold;
 }
 
 #last-p-tag {
     margin: 10px;
+}
+
+hr {
+    border: 1px solid grey;
 }
 
