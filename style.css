@@ -234,27 +234,33 @@ p {
 }
 
 #phone-img {
-    height: 40px;
-    width: 40px;
+    height: 70px;
+    width: 70px;
     margin-top: 8px;
+    margin-left: 20px;
 }
 
 .aside-text {
-    font-size: 18px;
-    float: right;
-    margin-left: 50px;
-    margin-bottom: 40px;
+    font-size: 15px;
+
+
 
 }
 .aside-text-2 {
-    float: right;
-    margin-bottom: 40px;
-    font-size: 18px;
-    margin-left: 50px;
+    font-size: 15px;
+
+    display: flex;
+    justify-content: center;
 
 }
 #google-img {
-    height: 40px;
-    width: 40px;
+    height: 70px;
+    width: 70px;
     margin-top: 20px;
+    margin-left: 20px;
+}
+
+.img-text {
+    margin-left: 10px;
+    margin-top: 20px
 }
