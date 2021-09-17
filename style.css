@@ -258,7 +258,11 @@ p {
     width: 70px;
     margin-top: 8px;
     margin-left: 20px;
+<<<<<<< HEAD
     border: 2px solid #f0f0f0;
+=======
+    border: 1px solid #f0f0f0;
+>>>>>>> 8eeafe571e845c8cc62eee0d00323ce54b7805b3
 }
 
 .aside-text {
@@ -276,7 +280,11 @@ p {
     width: 70px;
     margin-top: 20px;
     margin-left: 20px;
+<<<<<<< HEAD
     border: 2px solid #f0f0f0;
+=======
+    border:  1px solid #f0f0f0;
+>>>>>>> 8eeafe571e845c8cc62eee0d00323ce54b7805b3
 }
 
 .img-text {
