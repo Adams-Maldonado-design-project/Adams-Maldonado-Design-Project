@@ -227,6 +227,12 @@ p {
     margin-left: 600px;
 }
 
+.xl-lists {
+    display: flex;
+    margin-left: 800px;
+
+}
+
 #lg-screen-1 {
     margin: 10px;
 }
