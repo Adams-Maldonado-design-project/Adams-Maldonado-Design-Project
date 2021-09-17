@@ -30,14 +30,13 @@ p {
     display: flex;
     margin: auto;
     justify-content: center;
+    padding: 1em;
 }
 #park-city {
-    padding: .5em;
+    padding: 1em;
     margin: auto;
     justify-content: center;
 }
-
-
 
 #logo {
     display: flex;
@@ -103,7 +102,6 @@ p {
     width: 18px;
     background-color: #00aba9;
     border-radius: 50%;
-    /*float: right;*/
     padding: 1em;
     margin: .2em;
     display: flex;
@@ -115,7 +113,6 @@ p {
     width: 18px;
     background-color: #e6563b;
     border-radius: 50%;
-    /*float: right;*/
     padding: 1em;
     margin: .2em;
     display: flex;
@@ -127,7 +124,6 @@ p {
     width: 18px;
     background-color: #dea03d;
     border-radius: 50%;
-    /*float: right;*/
     padding: 1em;
     margin: .2em;
     display: flex;
@@ -139,7 +135,6 @@ p {
     width: 18px;
     background-color: #7cb06c;
     border-radius: 50%;
-    /*float:right;*/
     padding: 1em;
     margin:.2em;
     display: flex;
@@ -236,4 +231,30 @@ p {
 }
 #lg-screen-4 {
     margin: 10px;
+}
+
+#phone-img {
+    height: 40px;
+    width: 40px;
+    margin-top: 8px;
+}
+
+.aside-text {
+    font-size: 18px;
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 40px;
+
+}
+.aside-text-2 {
+    float: right;
+    margin-bottom: 40px;
+    font-size: 18px;
+    margin-left: 50px;
+
+}
+#google-img {
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
 }
