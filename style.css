@@ -8,21 +8,20 @@ body {
     background-color: #E6E6E6;
     max-width: 1200px;
 }
+
 h1 {
     display: flex;
     justify-content: center;
     align-items: center;
     font-weight: bold;
-
-
 }
+
 h2 {
     display: flex;
     margin: auto;
     font-family: 'anton-regular', sans-serif;
     font-weight: bold;
     justify-content: center;
-
 }
 
 p {
@@ -47,6 +46,7 @@ p {
     height: 120px;
     width: 120px;
 }
+
 .circle-1 {
     position: relative;
     width: 100%;
@@ -83,24 +83,21 @@ p {
     border-radius: 50%;
 }
 
-
-
 .text {
     position: absolute;
     top: 0;
     width: 100%;
     height: 100%;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     color: #f0f0f0;
-    font-family: 'Anton';
+    font-family: 'Anton', serif;
     font-size: 2em;
     text-transform: uppercase;
 }
-.icon1{
+
+.icon1 {
     height: 18px;
     width: 18px;
     background-color: #00aba9;
@@ -111,7 +108,8 @@ p {
     justify-content: center;
     align-items: center;
 }
-.icon2{
+
+.icon2 {
     height: 18px;
     width: 18px;
     background-color: #e6563b;
@@ -122,7 +120,8 @@ p {
     justify-content: center;
     align-items: center;
 }
-.icon3{
+
+.icon3 {
     height: 18px;
     width: 18px;
     background-color: #dea03d;
@@ -133,7 +132,8 @@ p {
     justify-content: center;
     align-items: center;
 }
-.icon4{
+
+.icon4 {
     height: 18px;
     width: 18px;
     background-color: #7cb06c;
@@ -144,12 +144,13 @@ p {
     justify-content: center;
     align-items: center;
 }
-.iconBody{
+
+.iconBody {
     display: flex;
     justify-content: flex-end;
-
 }
-.featured{
+
+.featured {
     padding: 1em;
     display: flex;
     justify-content: flex-start;
@@ -168,6 +169,7 @@ p {
     margin-top: 1em;
     margin-bottom: .3em;
 }
+
 #img-3 {
     width: 100%;
     border: 7px solid #f0f0f0;
@@ -192,6 +194,7 @@ p {
 #md-screen-1 {
     margin-top: 2.5em;
 }
+
 #md-screen-2 {
     margin-top: 2.5em;
 }
@@ -200,16 +203,16 @@ p {
     margin-top: 2.5em;
     margin-left: 2em;
 }
+
 #md-screen-4 {
     margin-top: 2.5em;
 }
 
-
 #img-logo-2 {
     margin-top: -107px;
     margin-right: 750px;
-
 }
+
 #lg-header {
     margin-top: 1em ;
     margin-left: 4.8em;
@@ -218,20 +221,20 @@ p {
 .lg-lists {
     display: flex;
     margin-left: 600px;
-
-
 }
 
 #lg-screen-1 {
     margin: 10px;
-
 }
+
 #lg-screen-2 {
     margin: 10px;
 }
+
 #lg-screen-3 {
     margin: 10px;
 }
+
 #lg-screen-4 {
     margin: 10px;
 }
@@ -246,16 +249,13 @@ p {
 .aside-text {
     font-size: 15px;
 
-
-
 }
 .aside-text-2 {
     font-size: 15px;
-
     display: flex;
     justify-content: center;
-
 }
+
 #google-img {
     height: 70px;
     width: 70px;
